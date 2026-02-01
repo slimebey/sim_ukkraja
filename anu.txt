@@ -1,0 +1,9 @@
+bikin di cmd git clone https://github.com/slimebey/sim_ukk
+
+composer install
+
+copy paste env, edit env yang dicopy
+
+php artisan key generate
+
+download laragon 8.5 di github
